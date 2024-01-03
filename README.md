@@ -1,2 +1,3 @@
-# merch
-My Merch Website
+# ai-merch
+
+## landing page + product page for AI Merch
