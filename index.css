@@ -68,7 +68,8 @@
     width: 100vw;
     height: 10%;
     background-color: white;
-    border-bottom: 2px solid aqua;
+    border-bottom: 0.1px solid rgb(0, 0, 0);
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.3);
     z-index: 2;
 
     display: flex;
@@ -99,12 +100,12 @@ section {
 #hero {
     height: 65%;
     max-height: 450px;
-    background-color: skyblue;
+    background-color: rgb(255, 255, 255);
     box-sizing: border-box;
 }
 
 #hero .img_box:first-of-type {
-    background-color: powderblue;
+    background-color: rgb(255, 255, 255);
 }
 #hero .img_box img{
     width: 100%;
@@ -131,10 +132,12 @@ section {
 
     #hero .img_box,
     #hero .text_box {
+        
         position: relative;
         display: inline-block;
     }
     #hero .text_box {
+        
         display: flex;
         align-items: center;
         justify-content: center;
@@ -175,9 +178,9 @@ section {
         display: flex;
         align-items: center;
         justify-content: center;
-        border: 1px solid aqua;
+        border: 1px solid transparent;
         border-right: 0;
-        border-left: 3px groove powderblue;
+        border-left: 3px groove transparent;
     }
     #hero .img_box:first-of-type{
         width: 50%;
