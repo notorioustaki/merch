@@ -7,7 +7,6 @@
     scroll-behavior: smooth;
     font-family: 'nunito-regular', sans-serif;
 }
-
 .mainframe::-webkit-scrollbar{
     width: 0;
     height: 0;
@@ -137,12 +136,12 @@ section {
         display: inline-block;
     }
     #hero .text_box {
-        
+     
         display: flex;
         align-items: center;
         justify-content: center;
         text-align: center;
-        
+        font-family: Georgia, 'Times New Roman', Times, serif;
         width: 50%;
         height: 50%;
         left: 10%;
@@ -175,6 +174,7 @@ section {
         width: 50%;
     }
     #hero .text_box {
+        font-family: Georgia, 'Times New Roman', Times, serif;
         display: flex;
         align-items: center;
         justify-content: center;
