@@ -1,7 +1,8 @@
 💫 About Me:
-currently a flutter android developer ,
-now learning kotlin and building apps with kotlin
-built few apps with flutter gthat includes a chat app , a weather app and medical app and other apps
+Flutter Dev since 2019
+Now switching to Kotlin 
+
+Built few apps with flutter that includes a chat app , a weather app and medical app and other apps
 
 🌐 Socials:
 Instagram [LinkedIn](https://linkedin.com/in/Taki Chiter)
